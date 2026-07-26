@@ -1,0 +1,6 @@
+{
+  "name": "本地高音质音乐播放器",
+  "description": "支持主流音频格式解析（MP3、FLAC、WAV、OGG、AAC、M4A）、实时歌词同步滚动、10段均衡器音效调校、音频频谱可视化与本地媒体库管理的高音质音乐播放器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
